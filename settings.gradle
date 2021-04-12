@@ -1,0 +1,6 @@
+
+rootProject.name = 'opencv_samples'
+
+include ':sdk'
+
+include ':face-detection'
