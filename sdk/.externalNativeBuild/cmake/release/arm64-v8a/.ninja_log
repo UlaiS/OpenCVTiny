@@ -1,6 +1,0 @@
-# ninja log v5
-12	148	639965426	CMakeFiles/detection_based_tracker.dir/dummy.cpp.o	fb68b6766651641d
-8	3348	639965429	CMakeFiles/detection_based_tracker.dir/DetectionCodebarTracker.cpp.o	ffad59e658a09f84
-5	3391	639965429	CMakeFiles/detection_based_tracker.dir/BitmapUtil.cpp.o	2217d3b996fd367d
-1	4015	639965430	CMakeFiles/detection_based_tracker.dir/DetectionBasedTracker_jni.cpp.o	ba673f589c3965f4
-4015	5489	639965431	C:/Users/Ulain/Documents/Android/install/samples/sdk/build/intermediates/cmake/release/obj/arm64-v8a/libdetection_based_tracker.so	a807aec11191c33d

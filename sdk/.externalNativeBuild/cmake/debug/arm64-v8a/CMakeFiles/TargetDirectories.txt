@@ -1,3 +1,0 @@
-C:/Users/Ulain/Documents/Android/install/samples/sdk/.externalNativeBuild/cmake/debug/arm64-v8a/CMakeFiles/detection_based_tracker.dir
-C:/Users/Ulain/Documents/Android/install/samples/sdk/.externalNativeBuild/cmake/debug/arm64-v8a/CMakeFiles/edit_cache.dir
-C:/Users/Ulain/Documents/Android/install/samples/sdk/.externalNativeBuild/cmake/debug/arm64-v8a/CMakeFiles/rebuild_cache.dir
