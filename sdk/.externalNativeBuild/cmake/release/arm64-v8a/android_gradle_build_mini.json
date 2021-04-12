@@ -1,0 +1,23 @@
+{
+  "buildFiles": [
+    "C:\\Users\\Ulain\\Documents\\Android\\install\\samples\\sdk\\libcxx_helper\\..\\native\\jni\\abi-arm64-v8a\\OpenCVModules-release.cmake",
+    "C:\\Users\\Ulain\\Documents\\Android\\install\\samples\\sdk\\libcxx_helper\\..\\native\\jni\\abi-arm64-v8a\\OpenCVModules.cmake",
+    "C:\\Users\\Ulain\\AppData\\Local\\Android\\Sdk\\ndk\\20.0.5594570\\build\\cmake\\platforms.cmake",
+    "C:\\Users\\Ulain\\Documents\\Android\\install\\samples\\sdk\\libcxx_helper\\..\\native\\jni\\OpenCVConfig-version.cmake",
+    "C:\\Users\\Ulain\\Documents\\Android\\install\\samples\\sdk\\libcxx_helper\\..\\native\\jni\\OpenCVConfig.cmake",
+    "C:\\Users\\Ulain\\Documents\\Android\\install\\samples\\sdk\\libcxx_helper\\CMakeLists.txt",
+    "C:\\Users\\Ulain\\Documents\\Android\\install\\samples\\sdk\\libcxx_helper\\..\\native\\jni\\abi-arm64-v8a\\OpenCVConfig.cmake",
+    "C:\\Users\\Ulain\\AppData\\Local\\Android\\Sdk\\ndk\\20.0.5594570\\build\\cmake\\android.toolchain.cmake"
+  ],
+  "cleanCommands": [
+    "C:\\Users\\Ulain\\AppData\\Local\\Android\\Sdk\\cmake\\3.10.2.4988404\\bin\\cmake.exe --build C:\\Users\\Ulain\\Documents\\Android\\install\\samples\\sdk\\.externalNativeBuild\\cmake\\release\\arm64-v8a --target clean"
+  ],
+  "libraries": {
+    "detection_based_tracker-Release-arm64-v8a": {
+      "artifactName": "detection_based_tracker",
+      "buildCommand": "C:\\Users\\Ulain\\AppData\\Local\\Android\\Sdk\\cmake\\3.10.2.4988404\\bin\\cmake.exe --build C:\\Users\\Ulain\\Documents\\Android\\install\\samples\\sdk\\.externalNativeBuild\\cmake\\release\\arm64-v8a --target detection_based_tracker",
+      "abi": "arm64-v8a",
+      "output": "C:\\Users\\Ulain\\Documents\\Android\\install\\samples\\sdk\\build\\intermediates\\cmake\\release\\obj\\arm64-v8a\\libdetection_based_tracker.so"
+    }
+  }
+}

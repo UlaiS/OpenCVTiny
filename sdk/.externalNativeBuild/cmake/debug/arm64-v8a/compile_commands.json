@@ -1,0 +1,25 @@
+[
+{
+  "directory": "C:/Users/Ulain/Documents/Android/install/samples/sdk/.externalNativeBuild/cmake/debug/arm64-v8a",
+  "command": "C:\\Users\\Ulain\\AppData\\Local\\Android\\Sdk\\ndk\\20.0.5594570\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang++.exe --target=aarch64-none-linux-android21 --gcc-toolchain=C:/Users/Ulain/AppData/Local/Android/Sdk/ndk/20.0.5594570/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=C:/Users/Ulain/AppData/Local/Android/Sdk/ndk/20.0.5594570/toolchains/llvm/prebuilt/windows-x86_64/sysroot  -Ddetection_based_tracker_EXPORTS -isystem C:/Users/Ulain/Documents/Android/install/samples/sdk/native/jni/include -IC:/Users/Ulain/Documents/Android/install/samples/sdk/libcxx_helper  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -fno-addrsig -Wa,--noexecstack -Wformat -Werror=format-security   -O0 -fno-limit-debug-info  -fPIC   -std=gnu++11 -o CMakeFiles\\detection_based_tracker.dir\\BitmapUtil.cpp.o -c C:\\Users\\Ulain\\Documents\\Android\\install\\samples\\sdk\\libcxx_helper\\BitmapUtil.cpp",
+  "file": "C:\\Users\\Ulain\\Documents\\Android\\install\\samples\\sdk\\libcxx_helper\\BitmapUtil.cpp"
+},
+
+{
+  "directory": "C:/Users/Ulain/Documents/Android/install/samples/sdk/.externalNativeBuild/cmake/debug/arm64-v8a",
+  "command": "C:\\Users\\Ulain\\AppData\\Local\\Android\\Sdk\\ndk\\20.0.5594570\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang++.exe --target=aarch64-none-linux-android21 --gcc-toolchain=C:/Users/Ulain/AppData/Local/Android/Sdk/ndk/20.0.5594570/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=C:/Users/Ulain/AppData/Local/Android/Sdk/ndk/20.0.5594570/toolchains/llvm/prebuilt/windows-x86_64/sysroot  -Ddetection_based_tracker_EXPORTS -isystem C:/Users/Ulain/Documents/Android/install/samples/sdk/native/jni/include -IC:/Users/Ulain/Documents/Android/install/samples/sdk/libcxx_helper  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -fno-addrsig -Wa,--noexecstack -Wformat -Werror=format-security   -O0 -fno-limit-debug-info  -fPIC   -std=gnu++11 -o CMakeFiles\\detection_based_tracker.dir\\DetectionBasedTracker_jni.cpp.o -c C:\\Users\\Ulain\\Documents\\Android\\install\\samples\\sdk\\libcxx_helper\\DetectionBasedTracker_jni.cpp",
+  "file": "C:\\Users\\Ulain\\Documents\\Android\\install\\samples\\sdk\\libcxx_helper\\DetectionBasedTracker_jni.cpp"
+},
+
+{
+  "directory": "C:/Users/Ulain/Documents/Android/install/samples/sdk/.externalNativeBuild/cmake/debug/arm64-v8a",
+  "command": "C:\\Users\\Ulain\\AppData\\Local\\Android\\Sdk\\ndk\\20.0.5594570\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang++.exe --target=aarch64-none-linux-android21 --gcc-toolchain=C:/Users/Ulain/AppData/Local/Android/Sdk/ndk/20.0.5594570/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=C:/Users/Ulain/AppData/Local/Android/Sdk/ndk/20.0.5594570/toolchains/llvm/prebuilt/windows-x86_64/sysroot  -Ddetection_based_tracker_EXPORTS -isystem C:/Users/Ulain/Documents/Android/install/samples/sdk/native/jni/include -IC:/Users/Ulain/Documents/Android/install/samples/sdk/libcxx_helper  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -fno-addrsig -Wa,--noexecstack -Wformat -Werror=format-security   -O0 -fno-limit-debug-info  -fPIC   -std=gnu++11 -o CMakeFiles\\detection_based_tracker.dir\\DetectionCodebarTracker.cpp.o -c C:\\Users\\Ulain\\Documents\\Android\\install\\samples\\sdk\\libcxx_helper\\DetectionCodebarTracker.cpp",
+  "file": "C:\\Users\\Ulain\\Documents\\Android\\install\\samples\\sdk\\libcxx_helper\\DetectionCodebarTracker.cpp"
+},
+
+{
+  "directory": "C:/Users/Ulain/Documents/Android/install/samples/sdk/.externalNativeBuild/cmake/debug/arm64-v8a",
+  "command": "C:\\Users\\Ulain\\AppData\\Local\\Android\\Sdk\\ndk\\20.0.5594570\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang++.exe --target=aarch64-none-linux-android21 --gcc-toolchain=C:/Users/Ulain/AppData/Local/Android/Sdk/ndk/20.0.5594570/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=C:/Users/Ulain/AppData/Local/Android/Sdk/ndk/20.0.5594570/toolchains/llvm/prebuilt/windows-x86_64/sysroot  -Ddetection_based_tracker_EXPORTS -isystem C:/Users/Ulain/Documents/Android/install/samples/sdk/native/jni/include -IC:/Users/Ulain/Documents/Android/install/samples/sdk/libcxx_helper  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -fno-addrsig -Wa,--noexecstack -Wformat -Werror=format-security   -O0 -fno-limit-debug-info  -fPIC   -std=gnu++11 -o CMakeFiles\\detection_based_tracker.dir\\dummy.cpp.o -c C:\\Users\\Ulain\\Documents\\Android\\install\\samples\\sdk\\libcxx_helper\\dummy.cpp",
+  "file": "C:\\Users\\Ulain\\Documents\\Android\\install\\samples\\sdk\\libcxx_helper\\dummy.cpp"
+}
+]
