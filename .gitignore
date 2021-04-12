@@ -3,4 +3,6 @@
 /.gradle/
 /face-detection/.externalNativeBuild/cmake/
 /face-detection/build/
+/sdk/.externalNativeBuild/cmake/
 /sdk/build/
+/build/intermediates/lint-cache/
