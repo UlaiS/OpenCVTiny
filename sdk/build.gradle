@@ -89,6 +89,12 @@
 //
 
 apply plugin: 'com.android.library'
+apply plugin: 'maven-publish'
+apply plugin: 'maven'
+apply plugin: 'android-maven'
+apply plugin: 'com.github.dcendents.android-maven'
+
+group ='com.github.ulais'
 
 def openCVersionName = "4.5.2"
 def openCVersionCode = ((4 * 100 + 5) * 100 + 2) * 10 + 0
@@ -151,4 +157,9 @@ android {
 }
 
 dependencies {
+}
+
+
+repositories {
+    mavenCentral()
 }
