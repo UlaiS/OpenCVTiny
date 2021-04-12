@@ -21,20 +21,6 @@ allprojects {
     }
 }
 
-task clean(type: Delete) {
-    delete rootProject.buildDir
-}
-
-//allprojects {
-//    gradle.projectsEvaluated {
-//        tasks.withType(JavaCompile) {
-//            options.compilerArgs << "-Xlint:unchecked"
-//            options.compilerArgs << "-Xlint:deprecation"
-//        }
-//    }
-//}
-
-
 gradle.afterProject { project ->
     if (project.pluginManager.hasPlugin('com.android.application')
             || project.pluginManager.hasPlugin('com.android.library')
@@ -89,6 +75,5 @@ gradle.afterProject { project ->
                 }
             }
         }
-
     }
 }
